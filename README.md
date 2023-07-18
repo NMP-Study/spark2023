@@ -31,26 +31,21 @@
 ## 심화 과정
 - 해당 주차 시작 전에 스터디 희망 여부에 따라 인원/그룹 재조정
 - 데이터 파트 인원은 필수 참석
-
-### 진행 순서
-- A그룹: @madplay, ...
-- B그룹: @KimYunsang-v, ...
-- C그룹: @okhee, ...
  
 ### 목차
 - ML관련(Chapter 10~11), 심화과정(Chapter 12)은 스킵
 
 주차 | 회차 | 담당그룹
 --|--|-- 
-5주차(Chapter 4) | 발표5: 86p ~ 119p | A그룹
-6주차(Chapter 5-1) | 발표6: 120p ~ 149p | B그룹
-7주차(Chapter 5-2) | 발표7: 151p ~ 163p<br>< 일반적인 데이터 프레임 및 스파크 SQL 작업 > 부터 시작 | C그룹
-8주차(Chapter 6) | 발표8: 164p ~ 180p | A그룹
-9주차(Chapter 7) | 발표9: 181p ~ 213p | B그룹
-10주차(Chpater 8-1) | 발표10: 214p ~ 232p<br>< Chapter 8. 정형화 스트리밍 > 부터 시작 | C그룹
-11주차(Chapter 8-2, 8-3) | 발표11: 232p ~ 254p | A그룹
-ﾠ | 발표12: 255p ~ 274p < 스트리밍 조인 > 부터 시작 |
-12주차(Chapter 9) | 발표13: 275p ~ 297p | B그룹
+5주차(Chapter 4) | 발표5: 86p ~ 119p | @luckyDaveKim, @madplay
+6주차(Chapter 5-1) | 발표6: 120p ~ 149p | @KimYunsang-v, @okhee
+7주차(Chapter 5-2) | 발표7: 151p ~ 163p<br>< 일반적인 데이터 프레임 및 스파크 SQL 작업 > 부터 시작 | @bluewbear, @luckyDaveKim
+8주차(Chapter 6) | 발표8: 164p ~ 180p | @KimYunsang-v, @madplay
+9주차(Chapter 7) | 발표9: 181p ~ 213p | @okhee, @bluewbear
+10주차(Chpater 8-1) | 발표10: 214p ~ 232p<br>< Chapter 8. 정형화 스트리밍 > 부터 시작 | @luckyDaveKim, @KimYunsang-v
+11주차(Chapter 8-2, 8-3) | 발표11: 232p ~ 254p | @madplay, @okhee
+ﾠ | 발표12: 255p ~ 274p < 스트리밍 조인 > 부터 시작 | @bluewbear, @luckyDaveKim
+12주차(Chapter 9) | 발표13: 275p ~ 297p | @KimYunsang-v, @madplay
 
 
 ## 스터디 정리
@@ -61,5 +56,5 @@
 
 ## 진행 규칙
 - 다음과 같은 상황이 하나라도 발생하는 경우 스터디는 다음 주로 연기한다.
-  - 경우1. 해당 주차의 발표 그룹에서 2명 이상 참석이 불가능한 경우
-  - 경우2. 전체 스터디 인원에서 4명 이상 참석이 불가능한 경우
+  - 경우1. 해당 주차의 발표 그룹에서 스터디 발표가 불가능한 경우
+  - 경우2. 전체 스터디 인원에서 50% 이상 참석이 불가능한 경우
